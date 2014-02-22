@@ -25,14 +25,14 @@ public class GoogleStep {
             driver = new FirefoxDriver();
             driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
             driver.manage().window().maximize();
-            System.out.println("Yash1");
+            System.out.println("Yash111");
       }
 
       @After
       //@After({"@GoogleSearch"})
       public void tearDown() {
             driver.close();
-            System.out.println("Yash2");
+            System.out.println("Yash222");
       }
            
       @Given("user is on google search page")
