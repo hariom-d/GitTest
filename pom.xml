@@ -3,6 +3,7 @@
   <groupId>GoogleSearch</groupId>
   <artifactId>GoogleSearch</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <!-- this is added for testing by hari-->
 <dependencies>
     <dependency>
         <groupId>info.cukes</groupId>
