@@ -4,7 +4,6 @@
   <artifactId>GoogleSearch</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <!-- this is added for testing by hari-->
-  <!-- Hari added this line for git demo-->
 <dependencies>
     <dependency>
         <groupId>info.cukes</groupId>
